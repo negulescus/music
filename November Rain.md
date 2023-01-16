@@ -3,7 +3,7 @@
 I can see a love `B` restrained  
 `E` But darling when I `Cm` hold you  
 Don't you know I feel the `B` same  
-`Cm` Cause nothin' `F#` last forever  
+`Cm` Cause nothin' last `F#` forever  
 And we both know hearts can `B` change  
 `Cm` And it's hard to hold a `F#` candle  
 In the cold november `B` rain  
