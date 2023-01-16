@@ -54,14 +54,14 @@ Even cold november `F#` rain
 D/F#EmDCDGD/F#EmDCDG
 
 **[Outro]**
-| C G/B | Am G  | F     | G     |
+| E B/E | Cm B  | F-a     | B     |
 
-| C G/B | Am G  | F     | G     | C
+| E B/E | Cm B  | F-a     | B     | E
 
-| C5    | Ab Bb | C5    | Ab Bb | (x2)
+| E5    | Ab-cb Bb-gb | E5    | Ab-cb Bb-gb | (x2)
 
-| Cm G  | F  Eb | Ab Bb | C5    | C5    | (x4)
+| Em B  | F-a  Eb-gb | Ab-cb Bb-gb | E5    | E5    | (x4)
 
-`Cm` Don't you you think that you `G` need somebody  
-`F` Don't you think that you `Eb` need someone  
-`Ab` Everybody `Bb` needs somebody. `C5` You're not the only one.  You're not the only one.
+`Bm` Don't you you think that you `F#` need somebody  
+`E` Don't you think that you `D` need someone  
+`G` Everybody `A` needs somebody. `B5` You're not the only one.  You're not the only one.
