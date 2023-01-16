@@ -21,10 +21,10 @@ Then darlin' don't `B` refrain
 In the cold november `B` rain  
 
 **[Chorus]**  
-Do `E` you need sometime on your `F#` own?  
-Do you `E` need sometime all `F#` alone?  
-Everybody `E` needs sometime on their `F#` own  
-Don't you know you `E` need sometime all `F#` alone  
+`E` Do you need sometime on your `F#` own?  
+`E` Do you need sometime all `F#` alone?  
+`E` Everybody needs sometime on their `F#` own  
+`E` Don't you know you need sometime all `F#` alone   
 
 **[Bridge]**  
 `Ebm` I know it's `E` hard to keep and `B` open heart  
@@ -36,10 +36,10 @@ Don't you know you `E` need sometime all `F#` alone
 `E` `Cm` `B`  
 
 **[Chorus]**  
-Do `E` you need sometime on your `F#` own?  
-Do you `E` need sometime all `F#` alone?  
-Everybody `E` needs sometime on their `F#` own  
-Don't you know you `E` need sometime all `F#` alone  
+`E` Do you need sometime on your `F#` own?  
+`E` Do you need sometime all `F#` alone?  
+`E` Everybody needs sometime on their `F#` own  
+`E` Don't you know you need sometime all `F#` alone  
 
 **[Verse 3]**  
 `E` And when your fears `Cm` subside  
@@ -51,17 +51,7 @@ We still can find a `B` way
 `Cm` Cause nothin' lasts `F#` forever  
 Even cold november `F#` rain
 
-D/F#EmDCDGD/F#EmDCDG
-
-**[Outro]**
-| E B/E | Cm B  | F-a     | B     |
-
-| E B/E | Cm B  | F-a     | B     | E
-
-| E5    | Ab-cb Bb-gb | E5    | Ab-cb Bb-gb | (x2)
-
-| Em B  | F-a  Eb-gb | Ab-cb Bb-gb | E5    | E5    | (x4)
-
+**[Outro]**  
 `Bm` Don't you you think that you `F#` need somebody  
 `E` Don't you think that you `D` need someone  
 `G` Everybody `A` needs somebody. `B5` You're not the only one.  You're not the only one.
