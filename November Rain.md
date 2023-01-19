@@ -49,7 +49,7 @@ When there's no one left to `B` blame
 `Cm` So never mind the `F#` darkness  
 We still can find a `B` way  
 `Cm` Cause nothin' lasts `F#` forever  
-Even cold november `F#` rain
+Even cold november `B` rain
 
 **[Outro]**  
 `Bm` Don't you you think that you `F#` need somebody  
