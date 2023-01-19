@@ -1,3 +1,5 @@
+You may play the intro from [here](https://www.youtube.com/watch?v=xZrmMP5wk6U)
+
 **[Verse 1]**  
 `E/B` When I look into your `C#m` eyes  
 I can see a love `B/Eb` restrained  
