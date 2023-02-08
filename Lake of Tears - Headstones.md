@@ -1,7 +1,13 @@
+**[Instrumental]**  
+`Dm` `Gm` `Bb` `F`  
+`Eb` `F` `Eb` `F`  
+`Gm` `Bb` `F`  
+`Gm` `Bb` `F`  
+
 **[Verse 1]**  
-`Gm` Past the forest of the flies of fire  
-`Bb` Beyond the waters of shimmering tears  
-`F` By a fire they stand  
+`Gm/D` Past the forest of the flies of fire  
+`Bb/D` Beyond the waters of shimmering tears  
+`F/C` By a fire they stand  
 `Eb` And they whisper my name  
 
 **[Bridge]**  
