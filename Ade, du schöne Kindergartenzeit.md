@@ -42,6 +42,7 @@ Das gibt′s nicht `A` mehr
 `F#m7` Denn wir müssen `B` weiter- `B/Eb` zieh′n  
 `E` Ade, du `A` schöne `E` Kindergartenzeit  
 `A` Wir sagen `B` jetzt auf Wieder- `E` seh'n  
+
 **[Outro]**  
 `A` Wir werden `B` uns wieder- `E` seh′n  
 `A` Wir werden `B` uns wieder- `E` seh′n  
@@ -79,12 +80,21 @@ Das gibt′s nicht `A` mehr
 `D` Ade, `A/C#` du schöne `G` Kindergarten- `D` zeit  
 `G` Wir sagen `A` jetzt auf Wieder- `D` seh′n  
 
+**[Verse 3]**  
+`D` Und danke, liebe Maria,  
+`Em7` fürs Zwergenhaus so schön,  
+`Bm` wir durften hier so viel ver- `A/C#` steh'n.  
+`D` Ein Ort voller Liebe,  
+`Em7` zum Spielen und zum Lachen –  
+`Bm` was will man mehr `A` machen?  
+
 **[Chorus]**  
 `E` Ade, du `B/Eb` schöne `G` Kindergartenzeit  
-`A ` Wir werden `E` nun geh'n `A/C#`
+`A ` Wir werden `E` nun geh'n `A/C#`  
 `F#m7` Denn wir müssen `B` weiter- `B/Eb` zieh′n  
 `E` Ade, du `A` schöne `E` Kindergartenzeit  
 `A` Wir sagen `B` jetzt auf Wieder- `E` seh'n  
+
 **[Outro]**  
 `A` Wir werden `B` uns wieder- `E` seh′n  
 `A` Wir werden `B` uns wieder- `E` seh′n  
