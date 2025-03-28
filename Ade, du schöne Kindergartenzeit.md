@@ -15,33 +15,33 @@ You Based on [this](https://www.youtube.com/watch?v=5KIh0j2d_0g) version.
 Das gibt′s nicht `A` mehr  
 
 **[Chorus]**  
-`D` Ade, `A/C#` du schöne `G` Kindergartenzeit  
+`D` Ade, du `A/C#` schöne `G` Kindergartenzeit  
 `D` Wir werden nun geh'n `D/F#`  
 `Em7` Denn wir müssen `A` weiter- `A7` zieh'n  
 `D` Ade, `A/C#` du schöne `G` Kindergarten- `D` zeit  
 `G` Wir sagen `A` jetzt auf Wiederseh′n `D`  
 
 **[Verse 2]**  
-Das Schaukeln, das Wippen  
-Das Rutschen machte Spaß  
-Im Frühling kam der Osterhas  
-Wir sangen oft Lieder  
-Nicht nur zur Weihnachtszeit  
-Für die Schule sind wir jetzt bereit  
+`D` Das Schaukeln, das Wippen  
+`Em7` Das Rutschen machte Spaß  
+`Bm` Im Frühling kam der Oster- `A/C#` has  
+`D` Wir sangen oft Lieder  
+`Em7` Nicht nur zur Weihnachtszeit  
+`Bm` Für die Schule sind wir jetzt be- `A` reit  
 
 **[Chorus]**  
-Ade, du schöne Kindergartenzeit  
-Wir werden nun geh′n  
-Denn wir müssen weiterzieh'n  
-Ade, du schöne Kindergartenzeit  
-Wir sagen jetzt auf Wiederseh′n  
+`D` Ade, du `A/C#` schöne `G` Kindergartenzeit  
+`D` Wir werden nun geh'n `D/F#`  
+`Em7` Denn wir müssen `A` weiter- `A7` zieh'n  
+`D` Ade, `A/C#` du schöne `G` Kindergarten- `D` zeit  
+`G` Wir sagen `A` jetzt auf Wieder- `D` seh′n  
 
 **[Chorus]**  
-Ade, du schöne Kindergartenzeit  
-Wir werden nun geh'n  
-Denn wir müssen weiterzieh′n  
-Ade, du schöne Kindergartenzeit  
-Wir sagen jetzt auf Wiederseh'n  
+`E` Ade, du `B/Eb` schöne `G` Kindergartenzeit  
+`A ` Wir werden `E` nun geh'n `A/C#`
+`F#m7` Denn wir müssen `B` weiter- `B/Eb` zieh′n  
+`E` Ade, du `A` schöne `E` Kindergartenzeit  
+`A` Wir sagen `B` jetzt auf Wieder- `E` seh'n  
 **[Outro]**  
-Wir werden uns wiederseh′n  
-Wir werden uns wiederseh'n  
+`A` Wir werden `B` uns wieder- `E` seh′n  
+`A` Wir werden `B` uns wieder- `E` seh′n  
