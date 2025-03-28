@@ -49,6 +49,10 @@ Das gibt′s nicht `A` mehr
 
 # Ade, du schöne Kindergartenzeit für Zwergenhaus  
 
+**[Intro]**  
+`D` ` ` `A/C#` ` ` - `G` ` ` `D` ` ` | `G` `D/F#` `Em7` ` ` - `A` ` ` `A/C#` ` `  
+`D` ` ` `A/C#` ` ` - `G` ` ` `D` ` ` | `G` `    ` `A  ` ` ` - `D` ` ` `    ` ` `  
+
 **[Verse 1]**  
 `D` Das Singen, das Basteln  
 `Em7` Das Spielen und Erzähl′n  
