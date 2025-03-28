@@ -109,10 +109,4 @@ Das gibt′s nicht `A` mehr
 **[Outro]**  
 `A` Wir werden `B` uns wieder- `E` seh′n  
 `A` Wir werden `B` uns wieder- `E` seh′n  
- 
-Und danke, liebe Maria,
-fürs Zwergenhaus so schön,
-wir durften hier so viel versteh'n.
-Ein Ort voller Liebe,
-zum Spielen und zum Lachen –
-was will man mehr machen?
+
