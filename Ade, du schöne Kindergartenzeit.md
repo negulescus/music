@@ -1,18 +1,18 @@
 # Ade, du schöne Kindergartenzeit  
-You Based on [this](https://www.youtube.com/watch?v=xZrmMP5wk6U) version.  
+You Based on [this](https://www.youtube.com/watch?v=5KIh0j2d_0g) version.  
   
 **[Intro]**  
-`D` ` ` `A/C#` ` ` `G` ` ` `D` ` ` - `G` `D/F#` `Em7` ` ` `A` ` ` `A/C#`  
-`D` ` ` `A/C#` ` ` `G` ` ` `D` ` ` - `G` ` ` `A` ` ` `D` ` ` ` `  
+`D` ` ` `A/C#` ` ` - `G` ` ` `D` ` ` | `G` `D/F#` `Em7` ` ` - `A` ` ` `A/C#` ` `  
+`D` ` ` `A/C#` ` ` - `G` ` ` `D` ` ` | `G` `    ` `A  ` ` ` - `D` ` ` `    ` ` `  
 
 **[Verse 1]**  
-Das Singen, das Basteln  
-Das Spielen und Erzähl′n  
-Der Morgenkreis, der wird uns fehl'n  
-Das gemeinsame Frühstück  
-Das mochten alle sehr  
-Das war wunderschön  
-Das gibt′s nicht mehr  
+`D` Das Singen, das Basteln  
+`Em7` Das Spielen und Erzähl′n  
+`Bm` Der Morgenkreis, der wird uns `A/C#` fehl'n  
+`D` Das gemeinsame Frühstück  
+`Em7` Das mochten alle sehr  
+`Bm` Das war wunderschön  
+Das gibt′s nicht `A` mehr  
 
 **[Chorus]**  
 Ade, du schöne Kindergartenzeit  
