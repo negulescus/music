@@ -15,8 +15,8 @@ You Based on [this](https://www.youtube.com/watch?v=5KIh0j2d_0g) version.
 Das gibt′s nicht `A` mehr  
 
 **[Chorus]**  
-`D` Ade, du `A/C#` schöne `G` Kindergartenzeit  
-`D` Wir werden nun geh'n `D/F#`  
+`D` Ade, du `A/C#` schöne `G` Kindergarten- `D` zeit  
+Wir werden nun `G` geh'n `D/F#`  
 `Em7` Denn wir müssen `A` weiter- `A7` zieh'n  
 `D` Ade, `A/C#` du schöne `G` Kindergarten- `D` zeit  
 `G` Wir sagen `A` jetzt auf Wiederseh′n `D`  
@@ -30,17 +30,17 @@ Das gibt′s nicht `A` mehr
 `Bm` Für die Schule sind wir jetzt be- `A` reit  
 
 **[Chorus]**  
-`D` Ade, du `A/C#` schöne `G` Kindergartenzeit  
-`D` Wir werden nun geh'n `D/F#`  
+`D` Ade, du `A/C#` schöne `G` Kindergarten- `D` zeit  
+Wir werden nun `G` geh'n `D/F#`  
 `Em7` Denn wir müssen `A` weiter- `A7` zieh'n  
 `D` Ade, `A/C#` du schöne `G` Kindergarten- `D` zeit  
-`G` Wir sagen `A` jetzt auf Wieder- `D` seh′n  
+`G` Wir sagen `A` jetzt auf Wiederseh′n `D`  
 
-**[Chorus]**  
-`E` Ade, du `B/Eb` schöne `G` Kindergartenzeit  
-`A ` Wir werden `E` nun geh'n `A/C#`
+**[Chorus+]**  
+`E` Ade, du `B/Eb` schöne `A` Kindergarten- `E`zeit  
+Wir werden nun `A` geh'n `A/C#`  
 `F#m7` Denn wir müssen `B` weiter- `B/Eb` zieh′n  
-`E` Ade, du `A` schöne `E` Kindergartenzeit  
+`E` Ade, du `B/Eb` schöne `A` Kindergarten- `E` zeit  
 `A` Wir sagen `B` jetzt auf Wieder- `E` seh'n  
 
 **[Outro]**  
@@ -63,8 +63,8 @@ Das gibt′s nicht `A` mehr
 Das gibt′s nicht `A` mehr  
 
 **[Chorus]**  
-`D` Ade, du `A/C#` schöne `G` Kindergartenzeit  
-`D` Wir werden nun geh'n `D/F#`  
+`D` Ade, du `A/C#` schöne `G` Kindergarten- `D` zeit  
+Wir werden nun `G` geh'n `D/F#`  
 `Em7` Denn wir müssen `A` weiter- `A7` zieh'n  
 `D` Ade, `A/C#` du schöne `G` Kindergarten- `D` zeit  
 `G` Wir sagen `A` jetzt auf Wiederseh′n `D`  
@@ -78,11 +78,11 @@ Das gibt′s nicht `A` mehr
 `Bm` wie wunderbar das `A` war!  
 
 **[Chorus]**  
-`D` Ade, du `A/C#` schöne `G` Kindergartenzeit  
-`D` Wir werden nun geh'n `D/F#`  
+`D` Ade, du `A/C#` schöne `G` Kindergarten- `D` zeit  
+Wir werden nun `G` geh'n `D/F#`  
 `Em7` Denn wir müssen `A` weiter- `A7` zieh'n  
 `D` Ade, `A/C#` du schöne `G` Kindergarten- `D` zeit  
-`G` Wir sagen `A` jetzt auf Wieder- `D` seh′n  
+`G` Wir sagen `A` jetzt auf Wiederseh′n `D`  
 
 **[Verse 3]**  
 `D` Und danke, liebe Maria,  
@@ -93,15 +93,15 @@ Das gibt′s nicht `A` mehr
 `Bm` was will man mehr `A` machen?  
 
 **[Chorus]**  
-`D` Ade, du `A/C#` schöne `G` Kindergartenzeit  
-`D` Wir werden nun geh'n `D/F#`  
+`D` Ade, du `A/C#` schöne `G` Kindergarten- `D` zeit  
+Wir werden nun `G` geh'n `D/F#`  
 `Em7` Denn wir müssen `A` weiter- `A7` zieh'n  
 `D` Ade, `A/C#` du schöne `G` Kindergarten- `D` zeit  
-`G` Wir sagen `A` jetzt auf Wieder- `D` seh′n  
+`G` Wir sagen `A` jetzt auf Wiederseh′n `D`  
 
-**[Chorus]**  
-`E` Ade, du `B/Eb` schöne `A` Kindergarten- `E` zeit  
-`E` Wir werden `A` nun geh'n `A/C#`  
+**[Chorus+]**  
+`E` Ade, du `B/Eb` schöne `A` Kindergarten- `E`zeit  
+Wir werden nun `A` geh'n `A/C#`  
 `F#m7` Denn wir müssen `B` weiter- `B/Eb` zieh′n  
 `E` Ade, du `B/Eb` schöne `A` Kindergarten- `E` zeit  
 `A` Wir sagen `B` jetzt auf Wieder- `E` seh'n  
