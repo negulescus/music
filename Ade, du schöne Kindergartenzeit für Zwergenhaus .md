@@ -1,5 +1,7 @@
 # Ade, du schöne Kindergartenzeit für Zwergenhaus  
 
+Based on [this](https://www.youtube.com/watch?v=5KIh0j2d_0g) version.  
+
 **[Intro]**  
 `D` ` ` `A/C#` ` ` - `G` ` ` `D` ` ` | `G` `D/F#` `Em7` ` ` - `A` ` ` `A/C#` ` `  
 `D` ` ` `A/C#` ` ` - `G` ` ` `D` ` ` | `G` `    ` `A  ` ` ` - `D` ` ` `    ` ` `  
