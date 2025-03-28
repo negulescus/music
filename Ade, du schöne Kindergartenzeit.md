@@ -101,9 +101,9 @@ Das gibt′s nicht `A` mehr
 
 **[Chorus]**  
 `E` Ade, du `B/Eb` schöne `A` Kindergarten- `E` zeit  
-`E ` Wir werden `A` nun geh'n `A/C#`  
+`E` Wir werden `A` nun geh'n `A/C#`  
 `F#m7` Denn wir müssen `B` weiter- `B/Eb` zieh′n  
-`E` Ade, du `E/Eb` schöne `A` Kindergarten- `E` zeit  
+`E` Ade, du `B/Eb` schöne `A` Kindergarten- `E` zeit  
 `A` Wir sagen `B` jetzt auf Wieder- `E` seh'n  
 
 **[Outro]**  
