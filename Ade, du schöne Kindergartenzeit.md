@@ -15,11 +15,11 @@ You Based on [this](https://www.youtube.com/watch?v=5KIh0j2d_0g) version.
 Das gibt′s nicht `A` mehr  
 
 **[Chorus]**  
-Ade, du schöne Kindergartenzeit  
-Wir werden nun geh'n  
-Denn wir müssen weiterzieh'n  
-Ade, du schöne Kindergartenzeit  
-Wir sagen jetzt auf Wiederseh′n  
+`D` Ade, `A/C#` du schöne `G` Kindergartenzeit  
+`D` Wir werden nun geh'n `D/F#`  
+`Em7` Denn wir müssen `A` weiter- `A7` zieh'n  
+`D` Ade, `A/C#` du schöne `G` Kindergarten- `D` zeit  
+`G` Wir sagen `A` jetzt auf Wiederseh′n `D`  
 
 **[Verse 2]**  
 Das Schaukeln, das Wippen  
